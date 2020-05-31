@@ -1,6 +1,6 @@
 # Presonus Studio One template for the BBC Symphonic Orchestra - Discover Edition virtual instrument
 #OneOrchestra
-This template is saved as a [song for customization]https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20SO%20Discover%20Template.song), and as a [template for immediate use](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20Symphony%20Orchestra%20Discover%20Templates%20for%20Studio%20One%204.zip), one saved in the correct folder (Your main Studio One content folder/templates/v4):
+This template is saved as a [song for customization](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20SO%20Discover%20Template.song), and as a [template for immediate use](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20Symphony%20Orchestra%20Discover%20Templates%20for%20Studio%20One%204.zip), one saved in the correct folder (Your main Studio One content folder/templates/v4):
 
 adjust it to taste, then save it as a template in Studio One.
 You can then create new songs by selecting this template in the User templates.
