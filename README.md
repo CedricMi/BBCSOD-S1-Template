@@ -32,4 +32,14 @@ Stay tuned for a video explaining this template.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+Creating a new file based on the template
 ![Alt text](BBCSODiscoverStudioOneTemplate-NewSong.jpg?raw=true "Creating a new file based on the template")
+
+Track view, Folders folded
+![Alt text](BBCSODiscoverStudioOneTemplate-Folded.png?raw=true "Track view, Folders folded")
+
+Track view, Folders unfolded
+![Alt text](BBCSODiscoverStudioOneTemplate-Unfolded.png?raw=true "Track view, Folders unfolded")
+
+Track view + console view
+![Alt text](BBCSODiscoverStudioOneTemplate-Console.png?raw=true "Track view + console view")
