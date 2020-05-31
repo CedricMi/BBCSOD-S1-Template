@@ -1,4 +1,5 @@
 # Presonus Studio One template for the BBC Symphonic Orchestra - Discover Edition virtual instrument
+#OneOrchestra
 This template is saved as a song for customization, and as a template for immediate use, one saved in the correct folder (Your main Studio One content folder/templates/v4):
 
 adjust it to taste, then save it as a template in Studio One.
