@@ -46,3 +46,6 @@ Track view, Folders unfolded
 
 Track view + console view
 ![Alt text](BBCSODiscoverStudioOneTemplate-Console.png?raw=true "Track view + console view")
+
+Simplified version of the template without folders and a single instrument track per instrument
+![Alt text](BBCSODiscoverStudioOneTemplate-Simplified.png?raw=true "Track view + console view")
