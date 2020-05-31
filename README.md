@@ -1,6 +1,6 @@
 # Presonus Studio One template for the BBC Symphonic Orchestra - Discover Edition virtual instrument
 #OneOrchestra
-This template is saved as a [song for customization](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20SO%20Discover%20Simple%20Template.song), and as a [template for immediate use](), one saved in the correct folder (Your main Studio One content folder/templates/v4):
+This template is saved as a [song for customization]https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20SO%20Discover%20Template.song), and as a [template for immediate use](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20Symphony%20Orchestra%20Discover%20Templates%20for%20Studio%20One%204.zip), one saved in the correct folder (Your main Studio One content folder/templates/v4):
 
 adjust it to taste, then save it as a template in Studio One.
 You can then create new songs by selecting this template in the User templates.
@@ -15,8 +15,9 @@ There are two FX channels: Verb 1, with the simple reverb MixVerb, and Verb 2 wi
 Each instrument track is sent to both FX channels at about -12 dB.
 Adjust to taste: enable or disable the FX channels, change their parameters or plugins, enable or disable the sends, or change the send volume.
 
-Stay tuned for a video explaining this template.
+A simpflified version with no folder structure and only one track per instrument is also [available as a song](https://github.com/CedricMi/BBCSOD-S1-Template/blob/master/BBC%20SO%20Discover%20Simple%20Template.song) as well as a template - already included in the zip archive above.
 
+Stay tuned for a video explaining these templates.
 
 
     Copyright (C) 2020 Cédric Mialaret
